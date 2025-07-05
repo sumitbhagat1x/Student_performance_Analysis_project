@@ -34,5 +34,9 @@ This is a Student Performance Analysis project. The data was provided in raw for
 ## 📚 4.Report:
 If you see the dashboard you will observe that ‘Business department’ has average attendance more compare to other departments. 
 In contrast CS department has least average attendance.
-Those students who have participated or part of extra curriculum activities they do more studies as compare to who didn’t join curriculum activities. But those students who are above 22 and not participated in curriculum activities, they devote more time to studies. 
+Those students who have participated or part of extra curriculum activities they do more studies as compare to who didn’t join curriculum activities. But those students who are above 22 and not participated in curriculum activities, they devote more time to studies.
+
+## Recommendations:
+Promote extracurricular activities more, so that students will participate in activities more.
+
 ### LINK OF THE PROJECT - [https://github.com/sumitbhagat1x/Coffee-Shop-Sales-project/tree/main/Cofee_shop_sales-project-2](https://github.com/sumitbhagat1x/Student_performance_Analysis_project)
