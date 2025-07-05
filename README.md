@@ -39,4 +39,4 @@ Those students who have participated in or are part of extracurricular activitie
 ## Recommendations:
 Promote extracurricular activities more, so that students will participate in activities.
 
-### LINK OF THE PROJECT - [https://github.com/sumitbhagat1x/Coffee-Shop-Sales-project/tree/main/Cofee_shop_sales-project-2](https://github.com/sumitbhagat1x/Student_performance_Analysis_project)
+### LINK OF THE PROJECT - (https://github.com/sumitbhagat1x/Student_performance_Analysis_project)
