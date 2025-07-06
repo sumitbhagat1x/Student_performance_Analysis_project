@@ -34,11 +34,14 @@ This is a Student Performance Analysis project. The data was provided in raw for
 ## 📚 4. Report:
 ● If you see the dashboard, you will observe that the  ‘Business department’ has an average attendance of 75.76. 
 In contrast CS department has the least average attendance of 74.75.
+
 ● Those students who have participated in or are part of extracurricular activities do more studies compared to those who didn’t join curriculum activities. But those students who are above 22 and have not participated in curriculum activities devote more time to studies.
 
 ## Recommendations:
 ● Promote extracurricular activities more, so that students will participate in activities. That will improve their focus towards study and marks.
+
 ● Conduct a few health-conscious camps and provide awareness regarding health.
+
 ● Invite guests who can guide students to handle academic pressure and provide some ways through which they can solve their problems.
 
 ### LINK OF THE PROJECT - (https://github.com/sumitbhagat1x/Student_performance_Analysis_project)
